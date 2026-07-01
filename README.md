@@ -29,4 +29,4 @@ A complete UI/UX case study designed using Figma.
 
 ## Author
 
-Your Name
+ sathvik
