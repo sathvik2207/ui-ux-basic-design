@@ -6,7 +6,7 @@
 | ------------ | --------------------------------------------------- |
 | Project Name | TaskFlow – Smart Task Management Mobile Application |
 | Project Type | UI/UX Design Case Study                             |
-| Designer     | Lalas Maruthi                                       |
+| Designer     | sathvik                                      |
 | Tools Used   | Figma, FigJam, Miro, Markdown                       |
 | Duration     | 4 Weeks (Estimated)                                 |
 | Platform     | Android & iOS                                       |
